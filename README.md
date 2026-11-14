@@ -1,2 +1,2 @@
 # Proyecto-POO
-Proyecto final en grupo 
+Proyecto final, App bancaria. 
